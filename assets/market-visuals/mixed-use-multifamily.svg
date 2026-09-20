@@ -1,0 +1,60 @@
+<svg viewBox="0 0 480 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mixed-Use and Multi-Family Residential market illustration: apartment building with retail base rendered as a blueprint drawing sheet">
+<title>Mixed-Use &amp; Multi-Family Residential — apartment &amp; mixed-use development</title>
+<defs>
+<pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+<path d="M20 0H0V20" fill="none" stroke="#7FB4D6" stroke-width="0.5" opacity="0.08"/>
+</pattern>
+<clipPath id="card"><rect x="0" y="0" width="480" height="360" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="480" height="360" fill="#0B2038"/>
+<rect width="480" height="360" fill="url(#grid)"/>
+<rect x="1" y="1" width="478" height="358" rx="17" fill="none" stroke="#E8A33D" stroke-opacity="0.25" stroke-width="2"/>
+<g stroke="#BFE3F0" stroke-opacity="0.55" stroke-width="1.5" stroke-linecap="square" fill="none">
+<path d="M24 38 V24 H38"/>
+<path d="M442 24 H456 V38"/>
+<path d="M24 322 V336 H38"/>
+<path d="M456 322 V336 H442"/>
+</g>
+<g transform="translate(432,64)" stroke="#BFE3F0" stroke-opacity="0.6" fill="#BFE3F0" fill-opacity="0.6">
+<line x1="0" y1="20" x2="0" y2="-6" stroke-width="1.5"/>
+<path d="M0,-12 L5,-2 L-5,-2 Z" stroke="none"/>
+<text x="0" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" text-anchor="middle" letter-spacing="1" stroke="none">N</text>
+</g>
+<circle cx="240" cy="175" r="96" fill="none" stroke="#BFE3F0" stroke-opacity="0.12" stroke-dasharray="3 6"/>
+
+<!-- icon: apartment tower + retail base -->
+<g>
+<rect x="140" y="195" width="70" height="45" fill="#0B2038" stroke="#BFE3F0" stroke-width="2"/>
+<line x1="138" y1="195" x2="212" y2="195" stroke="#E8A33D" stroke-width="3"/>
+<rect x="165" y="212" width="16" height="28" fill="none" stroke="#BFE3F0" stroke-width="1.5"/>
+<rect x="188" y="205" width="14" height="14" fill="none" stroke="#BFE3F0" stroke-width="1.2"/>
+<rect x="210" y="90" width="70" height="150" fill="#E8A33D" fill-opacity="0.1" stroke="#E8A33D" stroke-width="4"/>
+<g stroke="#BFE3F0" stroke-width="1.2" fill="none">
+<rect x="218" y="102" width="12" height="14"/>
+<rect x="240" y="102" width="12" height="14"/>
+<rect x="218" y="127" width="12" height="14"/>
+<rect x="240" y="127" width="12" height="14"/>
+<rect x="218" y="152" width="12" height="14"/>
+<rect x="240" y="152" width="12" height="14"/>
+<rect x="218" y="177" width="12" height="14"/>
+<rect x="240" y="177" width="12" height="14"/>
+<rect x="218" y="202" width="12" height="14"/>
+<rect x="240" y="202" width="12" height="14"/>
+</g>
+<g fill="#0B2038" stroke="#BFE3F0" stroke-width="2">
+<rect x="280" y="105" width="14" height="18"/>
+<rect x="280" y="135" width="14" height="18"/>
+<rect x="280" y="165" width="14" height="18"/>
+<rect x="280" y="195" width="14" height="18"/>
+</g>
+<line x1="200" y1="240" x2="300" y2="240" stroke="#BFE3F0" stroke-width="2"/>
+</g>
+
+<line x1="40" y1="306" x2="440" y2="306" stroke="#E8A33D" stroke-opacity="0.3" stroke-width="1.5"/>
+<text x="40" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" letter-spacing="3" fill="#BFE3F0" fill-opacity="0.45">MARKET SERIES</text>
+<text x="40" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="600" letter-spacing="0.5" fill="#DCEFF6">13 — MIXED-USE &amp; MULTI-FAMILY</text>
+<text x="40" y="326" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="1.5" fill="#BFE3F0" fill-opacity="0.5">SCOPE: ARCH · MEP · CIVIL · STRUCT</text>
+<text x="440" y="326" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1" fill="#E8A33D" text-anchor="end">SHEET A-13</text>
+</g>
+</svg>

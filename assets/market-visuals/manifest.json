@@ -1,0 +1,25 @@
+{
+  "note": "Original SVG illustrations (not stock photos) for each market page — self-contained, no network/license dependency. Shared blueprint/drafting-sheet visual system: navy background, fine grid, corner crop marks, north-arrow sheet furniture, amber/cyan duotone line-art icon per sector, title block with sheet number.",
+  "style": {
+    "background": "#0B2038",
+    "gridLine": "#7FB4D6",
+    "lineColor": "#BFE3F0",
+    "accent": "#E8A33D",
+    "viewBox": "0 0 480 360"
+  },
+  "markets": [
+    { "slug": "commercial", "file": "commercial.svg", "sheet": "A-01", "title": "Commercial", "altText": "Commercial market illustration: office tower rendered as a blueprint drawing sheet" },
+    { "slug": "data-centers", "file": "data-centers.svg", "sheet": "A-02", "title": "Data Centers", "altText": "Data Centers market illustration: server racks rendered as a blueprint drawing sheet" },
+    { "slug": "mission-critical", "file": "mission-critical.svg", "sheet": "A-03", "title": "Mission Critical", "altText": "Mission Critical market illustration: shield with cross and pulse line rendered as a blueprint drawing sheet" },
+    { "slug": "education", "file": "education.svg", "sheet": "A-04", "title": "Education (K–12 & Higher Ed)", "altText": "Education market illustration: graduation cap and book rendered as a blueprint drawing sheet" },
+    { "slug": "healthcare", "file": "healthcare.svg", "sheet": "A-05", "title": "Healthcare", "altText": "Healthcare market illustration: medical cross badge with pulse line rendered as a blueprint drawing sheet" },
+    { "slug": "life-sciences", "file": "life-sciences.svg", "sheet": "A-06", "title": "Life Sciences", "altText": "Life Sciences market illustration: laboratory flask rendered as a blueprint drawing sheet" },
+    { "slug": "government-federal", "file": "government-federal.svg", "sheet": "A-07", "title": "Government & Federal", "altText": "Government and Federal market illustration: columned civic building rendered as a blueprint drawing sheet" },
+    { "slug": "municipal", "file": "municipal.svg", "sheet": "A-08", "title": "Municipal", "altText": "Municipal market illustration: domed civic building with clock rendered as a blueprint drawing sheet" },
+    { "slug": "industrial-manufacturing", "file": "industrial-manufacturing.svg", "sheet": "A-09", "title": "Industrial & Manufacturing", "altText": "Industrial and Manufacturing market illustration: factory with gear rendered as a blueprint drawing sheet" },
+    { "slug": "semiconductors", "file": "semiconductors.svg", "sheet": "A-10", "title": "Semiconductors", "altText": "Semiconductors market illustration: microchip rendered as a blueprint drawing sheet" },
+    { "slug": "renewables-solar", "file": "renewables-solar.svg", "sheet": "A-11", "title": "Renewables & Solar", "altText": "Renewables and Solar market illustration: sun above a tilted solar array rendered as a blueprint drawing sheet" },
+    { "slug": "ev-charging", "file": "ev-charging.svg", "sheet": "A-12", "title": "EV Charging Infrastructure", "altText": "EV Charging Infrastructure market illustration: charging connector with lightning bolt rendered as a blueprint drawing sheet" },
+    { "slug": "mixed-use-multifamily", "file": "mixed-use-multifamily.svg", "sheet": "A-13", "title": "Mixed-Use & Multi-Family Residential", "altText": "Mixed-Use and Multi-Family Residential market illustration: apartment building with retail base rendered as a blueprint drawing sheet" }
+  ]
+}
