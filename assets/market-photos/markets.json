@@ -1,0 +1,377 @@
+{
+  "$schema": "./markets.schema.json",
+  "generatedAt": "2026-09-20",
+  "note": "Source page URLs were verified via live web search (each is a real Unsplash/Pexels/Pixabay page). Direct hotlink/CDN image URLs are NOT included because they could not be fetched from this environment (outbound network access to unsplash.com/pexels.com/pixabay.com is blocked here). Before wiring these into the site, open each sourceUrl once, click Download, and either (a) hotlink the resulting images-*.{unsplash,pexels,pixabay}.com CDN URL, or (b) download the file and add it to this directory, recording the final filename below. All three sources offer free, royalty-free licenses that permit commercial/website use without required attribution.",
+  "markets": [
+    {
+      "slug": "commercial",
+      "title": "Commercial",
+      "summary": "Office, retail, and hospitality projects where day-to-day performance and tenant experience are on the line.",
+      "altText": "Modern glass-and-brick commercial office building exterior in daylight",
+      "photos": [
+        {
+          "rank": 1,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/modern-office-building-with-glass-and-brick-facade-z-XlxM2vAPY",
+          "photographer": "Linus Belanger",
+          "description": "Glass-and-brick modern office facade, clean daylight shot.",
+          "license": "Unsplash License (free for commercial use, no attribution required)"
+        },
+        {
+          "rank": 2,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/glass-facade-of-a-modern-office-building-V5vF94h52r0",
+          "photographer": "Fabian Kleiser",
+          "description": "Geometric reflective blue-glass office tower facade, San Francisco.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 3,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/modern-hotel-lobby-with-leather-chairs-and-reception-desk-Is2xP3QGb74",
+          "photographer": "Neon Wang",
+          "description": "Alternate hospitality angle: modern hotel lobby with reception desk.",
+          "license": "Unsplash License"
+        }
+      ]
+    },
+    {
+      "slug": "data-centers",
+      "title": "Data Centers",
+      "summary": "Mission-driven environments where uptime is everything.",
+      "altText": "Data center server racks with glowing status lights in a dim aisle",
+      "photos": [
+        {
+          "rank": 1,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/data-center-server-rack-with-glowing-green-lights-dIEa5xZljTk",
+          "photographer": "Dmitrii Shirnin",
+          "description": "Close server-rack aisle with status-light glow.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 2,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/a-server-room-with-rows-of-data-servers-_ov9HrXs9ms",
+          "photographer": "Planet Volumes",
+          "description": "Wide row-of-racks data hall shot.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 3,
+          "source": "pexels",
+          "sourceUrl": "https://www.pexels.com/photo/server-racks-on-data-center-4508751/",
+          "photographer": "verify on page",
+          "description": "Server racks on data center floor.",
+          "license": "Pexels License"
+        }
+      ]
+    },
+    {
+      "slug": "mission-critical",
+      "title": "Mission Critical",
+      "summary": "Hospitals, emergency operations centers, and other facilities that can't afford downtime.",
+      "altText": "Exterior of a modern hospital / mission-critical facility building",
+      "caveat": "No credible free photo of an emergency operations / control room surfaced in search; used hospital exteriors instead. Consider a dedicated EOC photo from a paid library if that imagery is important for this page.",
+      "photos": [
+        {
+          "rank": 1,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/ur-medicine-concrete-building-pwVjeAhR0Tc",
+          "photographer": "Nasjere Williams",
+          "description": "Exterior of a Rochester, NY medical/hospital building.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 2,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-b3LF7JHQmms",
+          "photographer": "Graham Ruttan",
+          "description": "Chinook Regional Hospital, Lethbridge, Alberta — clean hospital exterior.",
+          "license": "Unsplash License"
+        }
+      ]
+    },
+    {
+      "slug": "education",
+      "title": "Education (K–12 & Higher Ed)",
+      "summary": "From K–12 campuses to university buildings, learning environments built to handle daily student life.",
+      "altText": "University campus courtyard with historic academic buildings",
+      "photos": [
+        {
+          "rank": 1,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/historic-university-buildings-with-a-grassy-courtyard-gHRBDLZf4sw",
+          "photographer": "Annie Spratt",
+          "description": "Classic collegiate courtyard/quad.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 2,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/aerial-view-of-a-large-university-campus-with-modern-buildings-ryet7cqhtWE",
+          "photographer": "verify on page",
+          "description": "Aerial campus shot with modern academic buildings.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 3,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/students-attending-a-lecture-in-a-modern-classroom-v3P_spLsOH0",
+          "photographer": "Vishnu Mehra",
+          "description": "Alternate interior angle: students in a modern classroom/lecture.",
+          "license": "Unsplash License"
+        }
+      ]
+    },
+    {
+      "slug": "healthcare",
+      "title": "Healthcare",
+      "summary": "Hospitals and clinical facilities carrying some of the strictest code and life-safety requirements in the industry.",
+      "altText": "Bright, clean hospital corridor in a modern clinical facility",
+      "photos": [
+        {
+          "rank": 1,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/well-lit-hospital-hallway-with-doors-at-the-end-of-the-corridor-jhSkpyCwJI0",
+          "photographer": "Fabio Sasso",
+          "description": "Bright, clean clinical corridor.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 2,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/interior-of-a-modern-hospital-room-o2xcsTeTk8Y",
+          "photographer": "verify on page",
+          "description": "Modern clinical patient room.",
+          "license": "Unsplash License"
+        }
+      ]
+    },
+    {
+      "slug": "life-sciences",
+      "title": "Life Sciences",
+      "summary": "Labs and research facilities needing precise MEP systems — airflow, containment, utilities — engineered to exacting tolerances.",
+      "altText": "Laboratory glassware and research equipment in a life sciences lab",
+      "photos": [
+        {
+          "rank": 1,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/lab-glassware-science-laboratory-research-and-development-concept-qbabEE7b2Xk",
+          "photographer": "Getty Images (free Unsplash tier)",
+          "description": "Lab glassware/flasks in a research setting.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 2,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/young-scientist-looking-through-a-microscope-in-a-laboratory-young-scientist-doing-some-research-jfx7wkVvmPY",
+          "photographer": "verify on page",
+          "description": "Researcher at a microscope.",
+          "license": "Unsplash License"
+        }
+      ]
+    },
+    {
+      "slug": "government-federal",
+      "title": "Government & Federal",
+      "summary": "Public projects with their own procurement rules, security requirements, and reporting standards.",
+      "altText": "Neoclassical government building facade with columns",
+      "photos": [
+        {
+          "rank": 1,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/grand-neoclassical-building-with-columns-against-cloudy-sky-A2p_EktGWfo",
+          "photographer": "Margaret Giatras",
+          "description": "Neoclassical columned facade, tagged courthouse/government building.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 2,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/public-trust-office-building-facade-with-columns-3xuX6xJz8AM",
+          "photographer": "Donald Wu",
+          "description": "Columned government/public office facade.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 3,
+          "source": "pexels",
+          "sourceUrl": "https://www.pexels.com/photo/the-united-states-capitol-building-in-washington-8788264/",
+          "photographer": "verify on page",
+          "description": "U.S. Capitol Building, Washington DC.",
+          "license": "Pexels License"
+        }
+      ]
+    },
+    {
+      "slug": "municipal",
+      "title": "Municipal",
+      "summary": "From public works to civic buildings, projects that serve their communities well past ribbon-cutting day.",
+      "altText": "Historic city hall building with skyline in the background",
+      "photos": [
+        {
+          "rank": 1,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/center-city-philadelphia-skyline-city-hall-in-the-foreground-yqcnLDWcRxA",
+          "photographer": "Getty Images (free Unsplash tier)",
+          "description": "Philadelphia City Hall with skyline.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 2,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/philadelphia-city-hall-pennsylvania-town-hall-philly-front-view-ZGYnSPiLa3E",
+          "photographer": "Getty Images (free Unsplash tier)",
+          "description": "Front elevation of Philadelphia City Hall, classic civic architecture.",
+          "license": "Unsplash License"
+        }
+      ]
+    },
+    {
+      "slug": "industrial-manufacturing",
+      "title": "Industrial & Manufacturing",
+      "summary": "Plants and manufacturing facilities needing engineering that understands process, power, and production downtime.",
+      "altText": "Industrial machinery on a manufacturing plant factory floor",
+      "photos": [
+        {
+          "rank": 1,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/industrial-machinery-and-equipment-inside-a-factory-hZ2ULF80dCY",
+          "photographer": "Stefan Lehner",
+          "description": "Interior factory floor with heavy machinery.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 2,
+          "source": "pexels",
+          "sourceUrl": "https://www.pexels.com/photo/industrial-factory-floor-with-machinery-31352672/",
+          "photographer": "verify on page",
+          "description": "Row of industrial machines on a factory floor.",
+          "license": "Pexels License"
+        },
+        {
+          "rank": 3,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/two-workers-welding-in-the-interior-of-a-factory-manufacturing-metallic-cylinders-for-industrial-boilers-Wwkq5UavgwQ",
+          "photographer": "verify on page",
+          "description": "Workers welding metallic cylinders for industrial boilers.",
+          "license": "Unsplash License"
+        }
+      ]
+    },
+    {
+      "slug": "semiconductors",
+      "title": "Semiconductors",
+      "summary": "Fab and cleanroom environments that demand specialized MEP and structural engineering.",
+      "altText": "Semiconductor cleanroom equipment and wafer-handling laboratory",
+      "caveat": "Weakest category: no genuine free photo of a bunny-suit-clad technician on a fab floor was found (search terms collide with unrelated costume/fashion stock content). The two picks below are the closest honest matches (wafer lab, cleanroom equipment) rather than a perfect thematic fit — consider a paid library (Getty/iStock) for this page specifically.",
+      "photos": [
+        {
+          "rank": 1,
+          "source": "pixabay",
+          "sourceUrl": "https://pixabay.com/photos/semiconductor-wafer-laboratory-7978337/",
+          "photographer": "verify on page",
+          "description": "Semiconductor wafer laboratory imagery.",
+          "license": "Pixabay Content License"
+        },
+        {
+          "rank": 2,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/plant-picture-clean-room-equipment-and-stainless-steel-machines-0LY5kxEgK0E",
+          "photographer": "Getty Images (free Unsplash tier)",
+          "description": "Cleanroom-style equipment and stainless machinery (no visible bunny-suit worker).",
+          "license": "Unsplash License"
+        }
+      ]
+    },
+    {
+      "slug": "renewables-solar",
+      "title": "Renewables & Solar",
+      "summary": "From utility-scale renewable installations to solar design for commercial and municipal sites.",
+      "altText": "Aerial view of a large utility-scale solar panel farm",
+      "photos": [
+        {
+          "rank": 1,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/a-large-array-of-solar-panels-in-a-desert-Ss73u_UKr3U",
+          "photographer": "Manny Becerra",
+          "description": "Utility-scale ground-mount solar array, Nevada.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 2,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/an-aerial-view-of-a-large-solar-farm-NH2Pj1fBuio",
+          "photographer": "Benoît Deschasaux",
+          "description": "Aerial utility-scale solar farm.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 3,
+          "source": "pexels",
+          "sourceUrl": "https://www.pexels.com/photo/aerial-view-of-a-solar-farm-16659262/",
+          "photographer": "Anonim Zero",
+          "description": "Aerial view of a solar farm.",
+          "license": "Pexels License"
+        }
+      ]
+    },
+    {
+      "slug": "ev-charging",
+      "title": "EV Charging Infrastructure",
+      "summary": "The electrical systems that get charging stations built right and built to last.",
+      "altText": "Electric vehicle plugged into a charging station",
+      "photos": [
+        {
+          "rank": 1,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/an-electric-vehicle-charging-station-is-plugged-in-WBaRzGnZTD0",
+          "photographer": "Haberdoedas",
+          "description": "EV plugged into a charging station.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 2,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/electric-vehicle-charging-cable-plugged-into-car-xJLsHl0hIik",
+          "photographer": "CHUTTERSNAP",
+          "description": "Close-up of charging cable/port connection.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 3,
+          "source": "pixabay",
+          "sourceUrl": "https://pixabay.com/photos/electric-car-ev-station-6641133/",
+          "photographer": "verify on page",
+          "description": "Electric car at an EV charging station.",
+          "license": "Pixabay Content License"
+        }
+      ]
+    },
+    {
+      "slug": "mixed-use-multifamily",
+      "title": "Mixed-Use & Multi-Family Residential",
+      "summary": "Apartment communities and mixed-use developments balancing resident experience with construction efficiency.",
+      "altText": "Modern multi-family apartment building exterior with balconies",
+      "photos": [
+        {
+          "rank": 1,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/exterior-of-a-modern-apartment-building-with-balconies-1iGG6k4Ci4E",
+          "photographer": "Maximilian Bungart",
+          "description": "Modern apartment facade with balconies, Germany.",
+          "license": "Unsplash License"
+        },
+        {
+          "rank": 2,
+          "source": "unsplash",
+          "sourceUrl": "https://unsplash.com/photos/modern-apartment-buildings-with-unique-geometric-facades-couTAixLzNM",
+          "photographer": "Joachim Lesne",
+          "description": "Kaktus Towers, Copenhagen (BIG-designed) — geometric mixed-use residential tower.",
+          "license": "Unsplash License"
+        }
+      ]
+    }
+  ]
+}
