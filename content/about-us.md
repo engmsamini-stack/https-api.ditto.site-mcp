@@ -4,7 +4,7 @@
 
 We know firsthand what it takes to deliver a project successfully — on time and on budget — because we've sat on every side of the table. Our team has served as the design and engineering professional of record, as general contractor and site manager, as overall program manager, and as the client accountable to our own leadership and stakeholders. That combination is rare, and it's exactly what shapes how we work: the full-service capability of a large multidisciplinary firm, delivered with the attention and accountability of a team that still answers the phone itself.
 
-It's the idea Integrated Project Solutions is built around. Big firm capabilities — architecture, MEP, civil, and structural expertise, integrated program management, and a holistic view of the entire project lifecycle. Small firm service — direct access to the people actually doing the work, without the layers, hand-offs, and impersonal process that usually come with a firm our size.
+It's the idea Integrated Project Solutions is built around. Big firm capabilities — architecture, MEP, civil, and structural expertise, integrated program management, and a holistic view of the entire project lifecycle. Small firm service — a nimble, multidiscipline team with direct access to the people actually doing the work, without the layers, hand-offs, and impersonal process that usually come with a firm our size.
 
 ## Why Choose Us
 
